@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/19</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020604</date>
+        <idno type="symbol">A/AC.109/2002/19</idno>
+        <idno type="jobno">N0241051</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها الثالثة المعقودة في 3 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">نشر المعلومات عن إنهاء الاستعمار</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">وقد درست المسائل المتصلة بنشر المعلومات عن إنهاء الاستعمار،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإذ تشير إلى قرار الجمعية العامة 1514 (د - 15) المؤرخ 14 كانون الأول/ ديسمبر 1960، المتضمن إعلان منح الاستقلال للبلدان والشعوب المستعمرة، وإلى سائر قرارات الأمم المتحدة ومقرراتها المتعلقة بنشر المعلومات عن إنهاء الاستعمار، ولا سيما قرار الجمعية العامة 56/73 المؤرخ 10 كانون الأول/ديسمبر 2001،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تدرك الحاجة إلى اتباع نُهج مرنة وعملية وابتكارية إزاء استعراض خيارات تقرير المصير لشعوب الأقاليم غير المتمتعة بالحكم الذاتي بغية تحقيق أهداف العقد الدولي الثاني للقضاء على الاستعمار،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ تؤكد من جديد أهمية نشر المعلومات كأداة لتعزيز أهداف الإعلان، وإذ تضع في اعتبارها دور الرأي العام العالمي في مساعدة شعوب الأقاليم غير المتمتعة بالحكم الذاتي مساعدة فعالة على تقرير مصيرها،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تسلم بأهمية الدور الذي تؤديه الدول القائمة بالإدارة في نقل المعلومات إلى الأمين العام وفقا لأحكام المادة 73 (هـ) من ميثاق الأمم المتحدة،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإذ تدرك أهمية دور المنظمات غير الحكومية في نشر المعلومات عن إنهاء الاستعمار،</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">1 - تقــر الأنشطة التي تضطلع بها إدارة شؤون الإعلام وإدارة الشؤون السياسية التابعتان للأمانة العامة في ميدان نشر المعلومات عن إنهاء الاستعمار؛</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">2 - ترى من المهم أن تواصل جهودها لكفالة نشر المعلومات المتعلقة بإنهاء الاستعمار على أوسع نطاق ممكن مع التركيز بوجه خاص على خيارات تقرير المصير المتاحة لشعوب الأقاليم غير المتمتعة بالحكم الذاتي؛</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">3 - تطلب إلى إدارة الشؤون السياسية وإدارة شؤون الإعلام أن تأخذا في الاعتبار اقتراحات اللجنة الخاصة، الداعية إلى مواصلتهما جهودهما الرامية إلى اتخاذ تدابير من خلال جميع وسائط الإعلام المتاحة، بما فيها المنشورات والإذاعة والتلفزيون، وكذلك شبكة الإنترنت، للتعريف بأعمال الأمم المتحدة في ميدان إنهاء الاستعمار، والقيام بجملة أمور منها:</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">(أ) الاستمرار في جمع المواد الأساسية المتعلقة بقضية تقرير المصير لشعوب الأقاليم غير المتمتعة بالحكم الذاتي وإعدادها ونشرها، خصوصا في تلك الأقاليم؛</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">(ب) التماس التعاون التام من الدول القائمة بالإدارة في الاضطلاع بالمهام المشار إليها أعلاه؛</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">(ج) إقامــة علاقــــة عمــــل مع المنظمات الإقليمية والحكومية الدولية المناسبة، ولا سيما في منطقتي المحيط الهادئ والبحر الكاريبي، وذلك بعقد مشاورات دورية وتبادل المعلومات معها؛</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">(د) تشجيع مشاركة المنظمات غير الحكومية في نشر المعلومات المتعلقة بإنهاء الاستعمار؛</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">(هـ) تقديم تقارير إلى اللجنة الخاصة عن التدابير المتخذة تنفيذا لهذا القرار؛</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">4 - تطلب إلى جميع الدول، بما فيها الدول القائمة بالإدارة، أن تواصل مد يد التعاون في مجال نشر المعلومات المشار إليها في الفقرة 2 أعلاه؛</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">5 - تقرر أن تواصل نظرها في هذه المسألة وأن تعد بشأنها تقريرا إلى الجمعية العامة في دورتها الثامنة والخمسين.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

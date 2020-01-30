@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/27</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020625</date>
+        <idno type="symbol">A/AC.109/2002/27</idno>
+        <idno type="jobno">N0244192</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>VISITING MISSIONS</term>
+          <term>TOKELAU</term>
+          <term>NON-SELF-GOVERNING TERRITORIES</term>
+          <term>TOKELAU QUESTION</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">رسالة مؤرخة 25 حزيران/يونيه 2002 موجهة إلى رئيس اللجنة الخاصة من القائم بالأعمال بالنيابة للبعثة الدائمة لنيوزيلندا لدى الأمم المتحدة</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">أثيرت خلال الدورة الأخيرة للجنة الخاصة إمكانية قيام اللجنة بزيارة توكيلاو.</s>
+        <s id="4:2" lang="ar">وقد رحب الأولو - أو - توكيلاو، فايبولي بيو تويا بالقيام بهذه الزيارة عندما اجتمع باللجنة على حدة لإجراء حوار غير رسمي.</s>
+        <s id="4:3" lang="ar">ولاحظ الأولو أن الفونو العام قد ناقش هذه المسألة في شباط/ فبراير 2002 وأن توكيلاو تتطلع لاستقبال بعثة في المستقبل القريب.</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">ويسرني أن أوجِّه رسميا دعوة من نيوزيلندا بوصفها السلطة القائمة بالإدارة، إلى اللجنة لزيارة توكيلاو وويلنغتون من أجل إجراء مناقشات خلال شهر آب/أغسطس 2002.</s>
+        <s id="5:2" lang="ar">ونظرا إلى الانتخابات العامة المقبلة التي ستجري في نيوزيلندا وانعقاد منتدى المحيط الهادئ في الأسبوع الثاني من آب/أغسطس، أود اقتراح توقيت تصل وفقه البعثة إلى توكيلاو يوم الاثنين 12 آب/أغسطس لزيارة تدوم أربعة أو خمسة أيام تليها مناقشات في ويلنغتون يومي الاثنين والثلاثاء 19 و 20 آب/أغسطس 2002.</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">(توقيع) تيم ماكيفور</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">القائم بالأعمال بالنيابة</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

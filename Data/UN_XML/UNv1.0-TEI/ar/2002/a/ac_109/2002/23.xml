@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/23</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020618</date>
+        <idno type="symbol">A/AC.109/2002/23</idno>
+        <idno type="jobno">N0243066</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>NEW CALEDONIA QUESTION</term>
+          <term>SELF-DETERMINATION OF PEOPLES</term>
+          <term>ENVIRONMENTAL PROTECTION</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها السابعة المعقودة في 17 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">مسألة كاليدونيا الجديدة</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">وقد نظرت في مسألة كاليدونيا الجديدة،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإذ تعيد تأكيد حق الشعوب في تقرير المصير على النحو المبّين في ميثاق الأمم المتحدة،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تشيـر إلـى قـراري الجمعيـة العامـة 1514 (د - 15) المـؤرخ 14 كانـون الأول/ديسمبر 1960 و 1541 (د - 15) المؤرخ 15 كانون الأول/ ديسمبر 1960،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ تلاحظ أهمية التدابير الإيجابية التي تتبعها السلطات الفرنسية في كاليدونيا الجديدة، بالتعاون مع جميع قطاعات السكان، عملا على تشجيع التنمية السياسية والاقتصادية والاجتماعية في ذلك الإقليم، بما في ذلك التدابير المتبعة في مجال حماية البيئة والإجراءات المتعلقة بتعاطي المخدرات والاتجار بها، بغية تهيئة إطار لتقدم الإقليم سلميا نحو تقرير المصير،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تلاحظ أيضا في هذا السياق أهمية التنمية الاقتصادية والاجتماعية العادلة فضلا عن الحوار المستمر فيما بين الأطراف المعنية في كاليدونيا الجديدة في التحضير لعملية تقرير المصير في كاليدونيا الجديدة،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإذ تلاحظ مع الارتياح تكثيف الاتصالات بين كاليدونيا الجديدة والبلدان المجاورة في منطقة جنوب المحيط الهادئ،</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">1 - ترحب بالتطورات الهامـــة الــتي حدثت فـــي كاليدونيــــا الجديدة على نحو ما يجسده توقيع ممثلي كاليدونيا الجديدة وحكومة فرنسا على اتفاق نوميا المؤرخ 5 أيار/ مايو 1998()؛</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">2 - تحث جميع الأطراف المعنية على مواصلة حوارها بروح من التآلف، لصالح شعب كاليدونيا الجديدة بأكمله، في إطار اتفاق نوميا؛</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">3 - تلاحظ الأحكام ذات الصلة من اتفاق نوميا الرامية إلى أن تؤخذ في الاعتبار على نطاق أوسع هوية الكاناك في المنظمات السياسية والاجتماعية لكاليدونيا الجديدة، وأيضا أحكام الاتفاق المتعلقة بالتحكم في الهجرة وحماية العمالة المحلية؛</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">4 - تلاحظ أيضا الأحكام ذات الصلة من اتفاق نوميا التـي مفادها أن بوسع كاليدونيا الجديدة أن تصبح عضوا أو عضوا منتسبا في منظمات دولية معينة مثل المنظمات الدولية فــي منطقـة المحيــط الهادئ، والأمم المتحدة، ومنظمة الأمم المتحدة للتربية والعلم والثقافة، ومنظمة العمل الدولية، ومـا إلى ذلك، وفقا لأنظمتها؛</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">5 - تلاحظ كذلك ما تم الاتفاق عليه بين الموقعين علـى اتفاق نوميا بـأن يوجـه انتباه الأمــم المتحدة إلى التقدم المحرز في عملية التحرير؛</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">6 - ترحب بكون الدولة القائمة بالإدارة قامت لدى إقامة المؤسسات الجديدة بتوجيه الدعوة إلى بعثة معلومات لزيارة كاليدونيا الجديدة، تتألف من ممثلين من بلدان منطقة المحيط الهادئ؛</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">7 - تطلب إلى الدولة القائمة بالإدارة إحالة المعلومات المتعلقة بالحالة السياسية والاقتصادية والاجتماعية في كاليدونيا الجديدة إلى الأمين العام؛</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">8 - تدعو جميع الأطراف المعنية إلى مواصلة العمل على إيجاد إطار يكفل تقدم الإقليم سلميا نحو عملية تقرير للمصير، تكون فيها جميع الخيارات مفتوحة وتصون حقوق جميع سكان كاليدونيا الجديدة وفقا لنص وروح اتفاق نوميا الذي يقوم على أساس مبدأ أن يكون سكان كاليدونيا الجديدة هم الذين يختارون الطريقة التي يتحكمون بها في مصيرهم؛</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">9 - ترحب بالتدابير التي اتخذت لتعزيز وتنويع اقتصاد كاليدونيا الجديدة في جميع الميادين وتشجع على اتخاذ مزيد من هذه التدابير وفقا لروح اتفاقات ماتينيون ونوميا؛</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">10 - ترحب أيضا بالأهمية التي توليها أطراف اتفاقات ماتينيون ونوميا لتحقيق قدر أكبر من التقدم في مجالات الإسكان والعمالة والتدريب والتعليم والرعاية الصحية في كاليدونيا الجديدة؛</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">11 - تنوه بمساهمة مركز الثقافة الميلانيزي في حماية الثقافة المحلية الأصلية لكاليدونيا الجديدة؛</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">12 - تحيط علما بالمبادرات الإيجابية التي تهدف إلى حماية البيئة الطبيعية لكاليدونيا الجديدة، وبخاصة عملية &quot;زونيكو&quot; التي ترمي إلى رسم خرائط للموارد البحرية داخل المنطقة الاقتصادية لكاليدونيا الجديدة وتقييم تلك الموارد؛</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">13 - تنوه بالصلات الوثيقة بين كاليدونيا الجديدة وشعوب جنوب المحيط الهادئ، وبالإجراءات الإيجابية التي تتخذها السلطات الفرنسية والإقليمية لتيسير زيادة تطوير تلك الصلات، بما في ذلك توثيق الصلات مع البلدان الأعضاء في منتدى جزر المحيط الهادئ؛</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">14 - ترحب، في هذا الصدد، بحصول كاليدونيا الجديدة على مركز المراقب في &quot;منتدى جزر المحيط الهادئ&quot;، وبالزيارات المتواصلة التي تقوم بها إلى كاليدونيا الجديدة وفود رفيعة المستوى من بلدان جزر المحيط الهادئ وبالزيارات رفيعة المستوى التي تقوم بها وفود من كاليدونيا الجديدة إلى البلدان الأعضاء في منتدى جزر المحيط الهادئ؛</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">15 - تقرر أن تبقي العملية الجارية الآخذة في الوضوح في كاليدونيا الجديدة نتيجة التوقيع على اتفاق نوميا قيد النظر المستمر؛</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">16 - تقرر أيضا أن تواصل النظر في مسألة إقليم كاليدونيا الجديدة غير المتمتع بالحكم الذاتي وأن تقدم تقريرا في هذا الشأن إلى الجمعية العامة في دورتها الثامنة والخمسين.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

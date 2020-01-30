@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/29</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020626</date>
+        <idno type="symbol">A/AC.109/2002/29</idno>
+        <idno type="jobno">N0244588</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>NON-SELF-GOVERNING TERRITORIES</term>
+          <term>COLONIAL COUNTRIES</term>
+          <term>MILITARY BASES</term>
+          <term>MILITARY ACTIVITY</term>
+          <term>SELF-DETERMINATION OF PEOPLES</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منـح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">مقرر اتخذته اللجنة الخاصة في جلستها العاشرة المعقودة في 26 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">الأنشطة والترتيبات العسكرية التي تقوم بها الدول الاستعمارية في الأقاليم الواقعة تحت إدارتها</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">1 - إن اللجنة الخاصة، وقد نظرت في البند المعنون &quot;الأنشطة والترتيبات العسكرية التي تقوم بها الدول الاستعمارية في الأقاليم الواقعة تحت إدارتها&quot;، وإذ تشير إلى قرار الجمعية العامة 1514 (د - 16) المؤرخ 14 كانون الأول/ديسمبر 1960، وجميع قرارات الأمم المتحدة ومقرراتها الأخرى ذات الصلة المتعلقة بالأنشطة العسكرية في الأقاليم المستعمرة وغير المتمتعة بالحكم الذاتي، تعيد تأكيد اقتناعها الشديد بأن القواعد والمنشآت العسكرية في الأقاليم المذكورة يمكن أن تمثل عائقا أمام ممارسة شعوب تلك الأقاليم لحقها في تقرير المصير، وتكرر تأكيد اعتقادها الراسخ بأنه ينبغي سحب القواعد والمنشآت الموجودة التي تعرقل تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة.</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">2 - وانطلاقا من علم اللجنة الخاصة بوجود مثل هذه القواعد والمنشآت في بعض تلك الأقاليم، فإنها تحث الدول المعنية القائمة بالإدارة على أن تواصل اتخاذ جميع التدابير اللازمة حتى لا تقحم تلك الأقاليم في أي عمليات هجومية أو في أي تدخل ضد الدول الأخرى.</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">3 - وتكرر اللجنة الخاصة تأكيد ما يساورها من القلق إزاء إمكانية تعارض الأنشطة والترتيبات العسكرية التي تقوم بها الدول الاستعمارية في الأقاليم الواقعــة تحت إدارتها مع حقــوق ومصالح الشعـوب المستعمرة المعنية، ولا سيما حقهـا فـي تقرير المصير والاستقلال.</s>
+        <s id="6:2" lang="ar">وتدعو اللجنة الدول المعنية القائمة بالإدارة مرة أخرى إلى إنهاء هذه الأنشطة وإزالة تلك القواعد العسكرية امتثالا لقرارات الجمعية العامة ذات الصلة.كما ينبغي تأمين موارد رزق بديلة لشعوب الأقاليم غير المتمتعة بالحكم الذاتي.</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">4 - وتكرر اللجنة الخاصة التأكيد على أنه لا يجوز استخدام الأقاليم المستعمرة وغير المتمتعة بالحكم الذاتي والمناطق المجاورة لها لإجراء تجارب نووية أو دفن نفايات نووية أو نشر الأسلحة النووية وغيرها من أسلحة الدمار الشامل.</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">5 - وتعلن اللجنة الخاصة عن استيائها من استمرار نقل ملكية الأراضي في الأقاليم المستعمرة وغير المتمتعة بالحكم الذاتي، ولا سيما في الأقاليم الجُزرية الصغيرة في منطقتي المحيط الهادئ والبحر الكاريبي، لإقامة المنشآت العسكرية.</s>
+        <s id="8:2" lang="ar">فاستخدام الموارد المحلية على نطاق واسع لهذا الغرض يمكن أن يكون له أثر سلبي على التنمية الاقتصادية للأقاليم المعنية.</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">6 - وتحيط اللجنة الخاصة علما بما قررته بعض الدول القائمة بالإدارة بشأن إغلاق بعض تلك القواعد العسكرية في الأقاليم غير المتمتعة بالحكم الذاتي أو خفض حجمها.</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">7 - وتطلب اللجنة الخاصة إلى الأمين العام أن يواصل إطلاع الرأي العام العالمي على الأنشطة والترتيبات العسكرية في الأقاليم المستعمرة وغير المتمتعة بالحكم الذاتي التي تشكل عائقا أمام تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة.</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">8 - وتقرر اللجنة الخاصة، رهنا بأي توجيهات تصدرها الجمعية العامة في هذا الصدد في دورتها السابعة والخمسين، مواصلة النظر في هذا البند في دورتها المقبلة.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

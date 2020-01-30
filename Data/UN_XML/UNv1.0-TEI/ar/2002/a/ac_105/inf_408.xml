@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.105/INF.408</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>Vienna</pubPlace>
+        <date>20021223</date>
+        <idno type="symbol">A/AC.105/INF.408</idno>
+        <idno type="jobno">V0260705</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>SPACECRAFT LAUNCHINGS</term>
+          <term>SPACE OBJECT REGISTRATION</term>
+          <term>ALGERIA</term>
+          <term>SATELLITES</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">لجنة استخدام الفضاء الخارجي</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">في الأغراض السلمية</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">معلومات مقدمة من الدول التي تطلق أجساما إلى المدار أو ما بعده، وفقا لقرار الجمعية العامة 1721 باء (د-16)</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">مذكرة شفوية مؤرخة 17 كانون الأول/ديسمبر 2002 موجّهة إلى الأمين العام من البعثة الدائمة للجزائر لدى الأمم المتحدة (فيينا)</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">تهدي البعثة الدائمة للجزائر لدى الأمم المتحدة (فيينا) تحياتها إلى الأمين العام للأمم المتحدة، وتتشرّف بأن تحيل إليه، وفقا للفقرة 1 من قرار الجمعية العامة 1721 باء (د-16) المؤرخ 20 كانون الأول/ديسمبر 1961، معلومات عن الساتل ALSAT-1، الذي أطلق في 28 تشرين الثاني/نوفمبر 2002 (انظر المرفق).</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">بيانات التسجيل الخاصة بجسم فضائي أطلقته الجزائر*</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">ALSAT-1</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">اسم الجسم الفضائي:</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">المركز الوطني للتقنيات الفضائية، بأرزو، الجزائر</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">المؤسسة المطلِقة:</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">بارامترات المدار:</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">98.5 دقيقة</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">الفترة العقدية:</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">98.23 درجة</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">زاوية الميل:</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">686 كيلومترا</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">نقطة الأوج:</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">نقطة الحضيض:</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">رصد الأرض ومراقبة الكوارث</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">الغرض العام:</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">5 سنوات</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">العمر التشغيلي:</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">شركة &quot;Rosoboronexport&quot; الروسية</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">(Russian Federal Unitary Enterprise)</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">مقدم خدمة الإطلاق:</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">محطة &quot;بليسيتسك&quot; للإطلاق الفضائي، الاتحاد الروسي</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="ar">مكان الإطلاق:</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="ar">28 تشرين الثاني/نوفمبر 2002</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="ar">تاريخ الإطلاق:</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="ar">شركة Surrey Satellite Technology ، غيلدفورد، مقاطعة ساري، المملكة المتحدة</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="ar">الصانع:</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

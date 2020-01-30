@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/25</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020620</date>
+        <idno type="symbol">A/AC.109/2002/25</idno>
+        <idno type="jobno">N0243439</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>NEGOTIATION</term>
+          <term>ARGENTINA</term>
+          <term>UNITED KINGDOM</term>
+          <term>FALKLAND ISLANDS (MALVINAS) QUESTION</term>
+          <term>SOVEREIGNTY</term>
+          <term>DISPUTE SETTLEMENT</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها الثامنة المعقودة في 19 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">مسألة جزر فوكلاند (مالفيناس)</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">وقد نظرت في مسألة جزر فوكلاند (مالفيناس)،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإدراكا منها أن الإبقاء على الأوضاع الاستعمارية يتنافى مع هدف تحقيق السلام العالمي الذي تتوخاه الأمم المتحدة،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تشير إلى قرارات الجمعية العامة 1514 (د - 15) المؤرخ 14 كانون الأول/ديسمبر 1960، و 2065 (د-20) المؤرخ 16 كانون الأول/ديسمبر 1965، و 3160 (د-28) المؤرخ 14 كانون الأول/ديسمبر 1973، و 31/49 المؤرخ 1 كانون الأول/ديسمبر 1976، و 37/9 المؤرخ 4 تشرين الثاني/نوفمبر 1982، و 38/12 المؤرخ 16 تشرين الثاني/نوفمبر 1983، و 39/6 المؤرخ 1 تشرين الثاني/نوفمبر 1984، و 40/21 المؤرخ 27 تشرين الثاني/نوفمبر 1985، و 41/40 المؤرخ 25 تشرين الثاني/نوفمبر 1986، و 42/19 المؤرخ 17 تشرين الثاني/نوفمبر 1987، و 43/25 المؤرخ 17 تشرين الثاني/نوفمبر 1988 وقرارات اللجنة الخاصة A/AC.109/756 المؤرخ 1 أيلول/سبتمبر 1983، و A/AC.109/793 المؤرخ 21 آب/أغسطس 1984، و A/AC.109/842 المؤرخ 9 آب/أغسطس 1985، و A/AC.109/885 المؤرخ 14 آب/ أغسطس 1986، و A/AC.109/930 المؤرخ 14 آب/أغسطس 1987، و A/AC.109/972 المؤرخ 11 آب/أغسطس 1988، وA/AC.109/1008 المؤرخ 15 آب/أغسطس 1989، و A/AC.109/1050 المؤرخ 14 آب/أغسطس 1990، و A/AC.109/1087 المؤرخ 14 آب/أغسطس 1991، و A/AC.109/1132 المؤرخ 29 تموز/يوليه 1992، و A/AC.109/1169 المؤرخ 14 تموز/يوليه 1993، و A/AC.109/2003 المؤرخ 12 تموز/ يوليه 1994، و A/AC.109/2033 المؤرخ 13 تموز/يوليه 1995، و A/AC.109/2062 المؤرخ 22 تموز/يوليه 1996، و A/AC.109/2096 المؤرخ 16 حزيران/يونيه 1997، و A/AC.109/2122 المؤرخ 6 تموز/يوليه 1998 و A/AC.109/1999/23، المؤرخ 1 تموز/يوليه 1999 A/AC.109/2000/23 المؤرخ 11 تموز/يوليه 2000، و A/AC.109/2001/25 المؤرخ 29 حزيران/يونيه 2001، وقراري مجلس الأمن 502 (1982) المؤرخ 3 نيسان/أبريل 1982، و 505 (1982) المؤرخ 26 أيار/مايو 1982،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ يؤلمها أن هذا النزاع الذي طال أمده لم يسو بعد على الرغم من الوقت الذي مر على اتخاذ قرار الجمعية العامة 2065 (د-20)،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تدرك مصلحة المجتمع الدولي في أن تستأنف حكومتا جمهورية الأرجنتين والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية مفاوضاتهما من أجل التوصل، في أقرب وقت ممكن، إلى حل سلمي وعادل ودائم للنزاع على السيادة فيما يتعلق بمسألة جزر فوكلاند (مالفيناس)،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإذ تعرب عن انشغالها لأن المستوى الجيد للعلاقات بين الأرجنتين والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية لم يؤد بعد إلى إجراء مفاوضات بشأن مسألة جزر فوكلاند (مالفيناس)؛</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">وإذ تعتبر أن هذا الوضع حري بأن ييسر استئناف المفاوضات بغية التوصل إلى حل سلمي للنزاع على السيادة،</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">وإذ تعيد تأكيد مبادئ ميثاق الأمم المتحدة بشأن عدم استعمال القوة أو التهديد باستعمالها في العلاقات الدولية، وتسوية المنازعات الدولية بالوسائل السلمية،</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">وإذ تنبه إلى أهمية مواصلة الأمين العام لجهوده الرامية إلى تنفيذ المهمة التي عهدت بها إليه الجمعية العامة في قراراتها المتعلقة بمسألة جزر فوكلاند (مالفيناس) تنفيذا تاما،</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">وإذ تعيد تأكيد ضرورة مراعاة الطرفين، على النحو الواجب، لمصالح سكان هذه الجزر وفقا لأحكام قرارات الجمعية العامة بشأن مسألة جزر فوكلاند (مالفيناس)،</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">1 - تكرر تأكيدها أن السبيل إلى إنهاء الوضع الاستعماري الخاص والفريد المتعلق بمسألة جزر فوكلاند (مالفيناس) يتمثل في تحقيق تسوية سلمية، يتم التوصل إليها عن طريق التفاوض، للنزاع على السيادة بين حكومتي جمهورية الأرجنتين والمملكة المتحدة لبريطانيا العظمى وأيرلندا الشمالية؛</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">2 - تحيط علما بالآراء التي أعرب عنها رئيس جمهورية الأرجنتين بمناسبة الدورة السادسة والخمسين للجمعية العامة؛</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">3 - تأسف لأن تنفيذ قرارات الجمعية العامة بشأن هذه المسألة لم يبدأ بعد على الرغم من التأييد الدولي الواسع النطاق لإجراء مفاوضات بين حكومتي الأرجنتين والمملكة المتحدة تشمل جميع الجوانب المتعلقة بمستقبل جزر فوكلاند (مالفيناس)؛</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">4 - تطلب من حكومتي الأرجنتين والمملكة المتحدة دعم عملية الحوار والتعاون الحالية من خلال استئناف المفاوضات بغية التوصل، في أقرب وقت ممكن، إلى حل سلمي للنزاع على السيادة فيما يتعلق بمسألة جزر فوكلاند (مالفيناس)، وفقا لأحكام قرارات الجمعية العامة 2065 (د-20)، و 3160 (د-28)، و 31/49، و 37/9، و 38/12، و 39/6، و 40/21، و 41/40، 42/19، و 43/25؛</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">5 - تكرر الإعراب عن تأييدها الراسخ لمهمة المساعي الحميدة التي يضطلع بها الأمين العام بقصد مساعدة الطرفين على الامتثال لما طلبته الجمعية العامة في قراراتها بشأن مسألة جزر فوكلاند (مالفيناس)؛</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">6 - تقرر إبقاء مسألة جزر فوكلاند (مالفيناس) قيد الاستعراض رهنا بأي توجيهات أصدرتها وقد تصدرها الجمعية العامة في هذا الشأن.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

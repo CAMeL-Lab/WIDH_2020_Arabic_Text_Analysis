@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.105/793</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>Vienna</pubPlace>
+        <date>20021230</date>
+        <idno type="symbol">A/AC.105/793</idno>
+        <idno type="jobno">V0260783</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>OUTER SPACE</term>
+          <term>SPACE EDUCATION</term>
+          <term>YOUTH</term>
+          <term>CONFERENCES</term>
+          <term>TRAINING PROGRAMMES</term>
+          <term>AFRICA</term>
+          <term>ASIA AND THE PACIFIC</term>
+          <term>EUROPE</term>
+          <term>WESTERN ASIA</term>
+          <term>NORTH AMERICA</term>
+          <term>SOUTH AMERICA</term>
+          <term>RECOMMENDATIONS</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">لجنة استخدام الفضاء الخارجي</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">في الأغراض السلمية</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">تقرير عن الندوة المشتركة بين الأمم المتحدة والنمسا ووكالة الفضاء الأوروبية حول تعزيز مشاركة الشباب في الأنشطة الفضائية</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">(غراتس، النمسا، 9 - 12 أيلول/سبتمبر 2002)*</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">المحتويات</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">الصفحة</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">الفقرات</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">مقدمة</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">أولاً -</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">الخلفية والأهداف</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">ألف-</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">البرنامج</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">باء -</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">الحضور</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">جيم-</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">ملخص أعمال الندوة والأنشطة الموصى بها</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">ثانيا -</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">الملاحظات والأنشطة المنفذة حتى الآن والإنجازات</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">ألف -</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">الإجراءات الموصى بها</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">العروض والمناقشات</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">ثالثا -</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">التعليم والأنشطة الوصولة</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">المجلس الاستشاري لجيل القضاء ومشاريعه</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">باء-</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">الأفرقة العاملة: أفرقة العمل التنفيذية</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="ar">الاختتام</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="ar">دال-</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="ar">* استلزم هذا التقرير قيام المتحدثين منفردين بإعداد ملخصات للعروض التي قدموها أثناء حلقة العمل.</s>
+        <s id="29:2" lang="ar">واستغرق هذا العمل عدة أسابيع، وأدى ذلك إلى تأخر تقديم التقرير.</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="ar">أولا - مقدمة</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="ar">ألف - الخلفية والأهداف</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="ar">1 - أقرت الجمعية العامة في قرارها 54/68 المؤرخ 6 كانون الأول/ديسمبر 1999 القرار المعنون &quot;الألفية الفضائية: إعلان فيينا بشأن الفضاء والتنمية البشرية&quot;(1)، الذي سبق أن اعتمده مؤتمر الأمم المتحدة الثالث المعني باستكشاف الفضاء الخارجي واستخدامه في الأغراض السلمية (اليونيسبيس الثالث).</s>
+        <s id="32:2" lang="ar">وقد صاغ اليونيسبيس الثالث إعلان فيينا ليكون نواة لاستراتيجية للتصدي للتحديات العالمية في المستقبل.</s>
+        <s id="32:3" lang="ar">واقتضى جزء من هذه الاستراتيجية اتخاذ إجراءات من أجل إنشاء آلية تشاور لتيسير استمرار مشاركة الشباب من جميع أنحاء العالم في أنشطة تعاونية متصلة بالفضاء، وذلك في إطار لجنة استخدام الفضاء الخارجي في الأغراض السلمية.</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="ar">2 - واقتَرح خبير الأمم المتحدة المعني بالتطبيقات الفضائية في تقريره المؤرخ 10 كانون الثاني/يناير 2000 المقدَّم إلى اللجنة وإلى لجنتها الفرعية العلمية والتقنية (A/AC.105/730) تنظيم سلسلة من الندوات بهدف تشجيع مشاركة الشباب في الأنشطة الفضائية ضمن برنامج حلقات العمل والدورات التدريبية والندوات والمؤتمرات التي ينظمها برنامج الأمم المتحدة للتطبيقات الفضائية للفترة 2000-2002.</s>
+        <s id="33:2" lang="ar">وأيدت اللجنة في تقريرها عن دورتها الثالثة والأربعين تنظيم سلسلة من الندوات من هذا القبيل(2).</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

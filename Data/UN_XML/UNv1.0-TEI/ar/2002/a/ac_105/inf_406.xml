@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.105/INF.406</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>Vienna</pubPlace>
+        <date>20020124</date>
+        <idno type="symbol">A/AC.105/INF.406</idno>
+        <idno type="jobno">V0250718</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">لجنة استخدام الفضاء الخارجي</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">في الأغراض السلمية</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">المعلومات المقدمة من الدول التي تطلق أجساما إلى المدار أو ما بعده، وفقا لقرار الجمعية العامة 1721 باء (د-16)</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">مذكرة شفوية مؤرخة 18 كانون الثاني/يناير 2002 موجّهة إلى الأمين العام للأمم المتحدة من البعثة الدائمة لماليزيا لدى الأمم المتحدة (فيينا)</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">تهدي البعثة الدائمة لماليزيا لدى الأمم المتحدة (فيينا) تحياتها إلى الأمين العام للأمم المتحدة، وتتشرّف بأن تحيل إليه، وفقا للفقرة 1 من قرار الجمعية العامة 1721 باء (د-16) المؤرخ 20 كانون الأول/ديسمبر 1961، معلومات بشأن الساتلين ميسات-2 وتيونغ سات-1 اللذين أطلقا في تشرين الثاني/نوفمبر 1996 وأيلول/سبتمبر 2000 على التوالي (انظر المرفق).</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">بيانات التسجيل الخاصة بالأجسام الفضائية التي أطلقتها ماليزيا*</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">ميسات-2 (MEASAT-2)</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">اسم الجسم الفضائي:</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">شبكات سواتل بيناريانغ</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">مالك الجسم الفضائي:</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">13 تشرين الثاني/نوفمبر 1996</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">تاريخ الإطلاق:</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">Ariane 44L (V92)</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">مركبة الإطلاق:</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">كورو، غيانا الفرنسية</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">موقع الإطلاق:</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">Arianespace</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">مالك موقع الإطلاق</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">بارامترات المدار:</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">786 35 2 كيلومترا</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">الأوج:</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">الحضيض:</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">00ر0 0.05 درجات</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">زاوية الميل:</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">23.96 ساعة</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">الفترة:</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="ar">المعلومات التقنية:</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="ar">512 1 كيلوغراما</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="ar">الكتلة:</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="ar">أجهزة اتصال مرسلة مجيبة</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="ar">الحمولة/وجه الاستخدام:</s>
+      </p>
+      <p id="32">
+        <s id="32:1" lang="ar">5.925-6.425 غيغاهيرتز و13.75-14.00 غيغاهيرتز و14.00-14.25 غيغاهيرتز</s>
+      </p>
+      <p id="33">
+        <s id="33:1" lang="ar">تردد الاتصال مع الساتل:</s>
+      </p>
+      <p id="34">
+        <s id="34:1" lang="ar">3.7-4.2 غيغاهرتز و 10.95-11.20 غيغاهيرتز و 11.45-11.70 غيغاهيرتز و 12.38-12.63 غيغاهيرتز</s>
+      </p>
+      <p id="35">
+        <s id="35:1" lang="ar">تردد الاتصال مع الأرض:</s>
+      </p>
+      <p id="36">
+        <s id="36:1" lang="ar">Measat Satellite Control Centre, Gunung Raya, Pulau Langkawi, Kedah</s>
+      </p>
+      <p id="37">
+        <s id="37:1" lang="ar">محطة التحكم الأرضي:</s>
+      </p>
+      <p id="38">
+        <s id="38:1" lang="ar">خط العرض: 22‛ 6شمالا</s>
+      </p>
+      <p id="39">
+        <s id="39:1" lang="ar">موضع المحطة:</s>
+      </p>
+      <p id="40">
+        <s id="40:1" lang="ar">خط الطول: 49‛ 99جنوبا</s>
+      </p>
+      <p id="41">
+        <s id="41:1" lang="ar">رقم التسجيل:</s>
+      </p>
+      <p id="42">
+        <s id="42:1" lang="ar">BAKSA 002/COMM/MEASAT-2</s>
+      </p>
+      <p id="43">
+        <s id="43:1" lang="ar">شهادة التسجيل:</s>
+      </p>
+      <p id="44">
+        <s id="44:1" lang="ar">تيونغ سات-1 (TiungSAT-1)</s>
+      </p>
+      <p id="45">
+        <s id="45:1" lang="ar">Astronautic Technology (M) Sdn.</s>
+        <s id="45:2" lang="ar">Bhd.</s>
+      </p>
+      <p id="46">
+        <s id="46:1" lang="ar">26 أيلول/سبتمبر 2000</s>
+      </p>
+      <p id="47">
+        <s id="47:1" lang="ar">Dnepr (SS-18)</s>
+      </p>
+      <p id="48">
+        <s id="48:1" lang="ar">بايكونوركوزمودروم، كازاخستان</s>
+      </p>
+      <p id="49">
+        <s id="49:1" lang="ar">وكالة الفضاء والطيران الروسية</s>
+      </p>
+      <p id="50">
+        <s id="50:1" lang="ar">مالك موقع الإطلاق:</s>
+      </p>
+      <p id="51">
+        <s id="51:1" lang="ar">654 كيلومترا</s>
+      </p>
+      <p id="52">
+        <s id="52:1" lang="ar">640 كيلومترا</s>
+      </p>
+      <p id="53">
+        <s id="53:1" lang="ar">65 درجة</s>
+      </p>
+      <p id="54">
+        <s id="54:1" lang="ar">98 دقيقة</s>
+      </p>
+      <p id="55">
+        <s id="55:1" lang="ar">50 كيلوغراما</s>
+      </p>
+      <p id="56">
+        <s id="56:1" lang="ar">كاميرا حادة الزاوية متعددة الأطياف، للاستشعار عن بعد؛ وكاميرا منفرجة الزاوية للأرصاد الجوية؛ وجهاز CEDEX (تجربة توضّع طاقة الأشعة الكونية) لأغراض التجارب العلمية</s>
+      </p>
+      <p id="57">
+        <s id="57:1" lang="ar">145.850 - 145.925 ميغاهيرتز (تردد عال جدا)، 9.6 كيلوبايت في الثانية</s>
+      </p>
+      <p id="58">
+        <s id="58:1" lang="ar">تردد الاتصال بالساتل:</s>
+      </p>
+      <p id="59">
+        <s id="59:1" lang="ar">437.325 ميغاهيرتز (تردد عال جدا)،</s>
+      </p>
+      <p id="60">
+        <s id="60:1" lang="ar">38.4 كيلوبايت في الثانية</s>
+      </p>
+      <p id="61">
+        <s id="61:1" lang="ar">TiungSAT-1 Mission Control Ground Station, Universiti Kebangsaan ، ماليزيا، بانغي</s>
+      </p>
+      <p id="62">
+        <s id="62:1" lang="ar">خط العرض: 3.0473 شمالا</s>
+      </p>
+      <p id="63">
+        <s id="63:1" lang="ar">خط الطول: 101.6925 شرقا</s>
+      </p>
+      <p id="64">
+        <s id="64:1" lang="ar">BAKSA 003/RS/TiungSAT-1</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

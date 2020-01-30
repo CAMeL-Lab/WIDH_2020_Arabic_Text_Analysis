@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/28</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020626</date>
+        <idno type="symbol">A/AC.109/2002/28</idno>
+        <idno type="jobno">N0244552</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>NON-SELF-GOVERNING TERRITORIES</term>
+          <term>SELF-DETERMINATION OF PEOPLES</term>
+          <term>NATURAL RESOURCES</term>
+          <term>BUSINESS ENTERPRISES</term>
+          <term>PROPERTY RIGHTS</term>
+          <term>PUBLIC OPINION</term>
+          <term>INDIGENOUS PEOPLES</term>
+          <term>ECONOMIC, SOCIAL AND CULTURAL RIGHTS</term>
+          <term>FOREIGN DIRECT INVESTMENT</term>
+          <term>MARINE RESOURCES</term>
+          <term>PERMANENT SOVEREIGNTY</term>
+          <term>NATURAL RESOURCES DEVELOPMENT</term>
+          <term>WORKING CONDITIONS</term>
+          <term>WAGES</term>
+          <term>EMPLOYMENT DISCRIMINATION</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها العاشرة المعقودة في 26 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">الأنشطة الاقتصادية وغيرها من الأنشطة التي تؤثر على مصالح شعوب الأقاليم غير المتمتعة بالحكم الذاتي</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">وقد نظرت في البند المعنون &quot;الأنشطة الاقتصادية وغيرها من الأنشطة التي تؤثر على مصالح شعوب الأقاليم غير المتمتعة بالحكم الذاتي&quot;،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإذ تشير إلى قرار الجمعية العامة 1514 (د - 15) المؤرخ 14 كانون الأول/ ديسمبر 1960، فضلا عن جميع قرارات الجمعية العامة الأخرى ذات الصلة، ومنها، بصفة خاصة، القراران 46/181 المؤرخ 19 كانون الأول/ديسمبر 1991 و 55/146 المؤرخ 8 كانون الأول/ديسمبر 2000،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تؤكد من جديد الالتزام الرسمي الذي يقع على عاتق الدول القائمة بالإدارة، بموجب ميثاق الأمم المتحدة، بالعمل على تحقيق التقدم السياسي والاقتصادي والاجتماعي والتعليمي لسكان الأقاليم الواقعة تحت إدارتها، وبحماية الموارد البشرية والطبيعية لتلك الأقاليم من حالات إساءة الاستغلال،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ تؤكد من جديد أيضا أن أي نشاط اقتصادي أو أي نشاط آخر يؤثر تأثيرا سلبيا على مصالح شعوب الأقاليم غير المتمتعة بالحكم الذاتي وعلى ممارستها لحقها في تقرير المصير طبقا لميثاق الأمم المتحدة وقرار الجمعية العامة 1514 (د - 15)، يناقض أهداف ومبادئ الميثاق،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تؤكد من جديد كذلك أن الموارد الطبيعية هي ميراث لشعوب الأقاليم غير المتمتعة بالحكم الذاتي، بما فيها السكان الأصليون،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإدراكا منها للظروف الخاصة بالموقع الجغرافي لكل إقليم وحجمه وأحواله الاقتصادية، وإذ تضع في اعتبارها الحاجة إلى تشجيع الاستقرار الاقتصادي وتنوع وتعزيز اقتصاد كل إقليم،</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">وإذ تدرك إمكانية تضرر الأقاليم الصغيرة بصفة خاصة من الكوارث الطبيعية وتدهور البيئة،</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">وإذ تدرك أيضا أن الاستثمار الاقتصادي الأجنبي عندما يوظف بالتعاون مع شعوب الأقاليم غير المتمتعة بالحكم الذاتي ووفقا لرغباتها قد يسهم إسهاما فعليا في التنمية الاجتماعية - الاقتصادية للأقاليم وقد يسهم أيضا إسهاما فعليا في ممارستها لحق تقرير المصير،</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">وإذ يساورها القلق إزاء أي أنشطة ترمي إلى استغلال الموارد الطبيعية والبشرية للأقاليم غير المتمتعة بالحكم الذاتي بما يضر بمصالح سكان تلك الأقاليم،</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">وإذ تضع في اعتبارها الأحكام ذات الصلة الواردة في الوثائق الختامية للمؤتمرات المتعاقبة لرؤساء دول أو حكومات بلدان عدم الانحياز وفي القرارات التي اتخذها مؤتمر رؤساء دول وحكومات منظمة الوحدة الأفريقية، ومنتدى جزر المحيط الهادئ والجماعة الكاريبية،</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">1 - تؤكد من جديد حق شعوب الأقاليم غير المتمتعة بالحكم الذاتي في تقرير المصير، طبقا لميثاق الأمم المتحدة وقرار الجمعية العامة 1514 (د - 15)، الذي يتضمن إعلان منح الاستقلال للبلدان والشعوب المستعمرة، فضلا عن حقها في التمتع بمواردها الطبيعية وحقها في التصرف في تلك الموارد بما يحقق مصالحها على خير وجه؛</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">2 - تؤكد قيمة الاستثمار الاقتصادي الأجنبي الذي يوظف بالتعاون مع شعوب الأقاليم غير المتمتعة بالحكم الذاتي ووفقا لرغباتها بغية المساهمة إسهاما فعليا في التنمية الاجتماعية - الاقتصادية للأقاليم؛</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">3 - تؤكد من جديد، مسؤولية الدول القائمة بالإدارة بموجب الميثاق عن العمل على تحقيق التقدم السياسي والاقتصادي والاجتماعي والتعليمي للأقاليم غير المتمتعة بالحكم الذاتي وتعيد تأكيد الحقوق المشروعة لشعوب هذه الأقاليم في مواردها الطبيعية؛</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">4 - تؤكد من جديد قلقها إزاء أي أنشطة ترمي إلى استغلال الموارد الطبيعية التي هي ميراث لشعوب الأقاليم غير المتمتعة بالحكم الذاتي، ومن بينها السكان الأصليون، في منطقتي البحر الكاريبي والمحيط الهادئ وغيرهما من المناطق، فضلا عن مواردها البشرية، بما يضر بمصالحها وعلى نحو يحرمها من حقها في التصرف في تلك الموارد؛</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">5 - تؤكد ضرورة تجنب أي أنشطة اقتصادية وغير اقتصادية تؤثر تأثيرا ضارا على مصالح شعوب الأقاليم غير المتمتعة بالحكم الذاتي؛</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">6 - تطلب مرة أخرى إلى جميع الحكومات التي لم تتخذ بعد تدابير تشريعية أو إدارية أو غيرها وفقا للأحكام ذات الصلة من قرار الجمعية العامة 2621 (د - 25) المؤرخ 12 تشرين الأول/أكتوبر 1970، فيما يتعلق برعاياها والهيئات الاعتبارية الخاضعة لولايتها الذين يمتلكون ويديرون مشاريع في الأقاليم غير المتمتعة بالحكم الذاتي تلحق الضرر بمصالح سكان تلك الأقاليم، أن تفعل ذلك من أجل إنهاء تلك المشاريع؛</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">7 - تعيد التأكيد على أن الاستغلال والنهب المضرين بالموارد البحرية وغيرها من الموارد الطبيعية للأقاليم غير المتمتعة بالحكم الذاتي، بما يشكل انتهاكا لقرارات الأمم المتحدة ذات الصلة، يمثلان تهديدا لسلامة وازدهار تلك الأقاليم؛</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">8 - تدعو جميع الحكومات ومؤسسات منظومة الأمم المتحدة إلى اتخاذ جميع التدابير الممكنة لضمان الاحترام والصون الكاملين للسيادة الدائمة لشعوب الأقاليم غير المتمتعة بالحكم الذاتي على مواردها الطبيعية وفقا لقرارات الأمم المتحدة ذات الصلة بإنهاء الاستعمار؛</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">9 - تحث الدول المعنية القائمة بالإدارة على اتخاذ تدابير فعالة لصون وضمان حق شعوب الأقاليم غير المتمتعة بالحكم الذاتي، غير القابل للتصرف، في مواردها الطبيعية، وفي السيطرة على تنميتها في المستقبل ومواصلة هذه السيطرة، وتطلب إلى الدول القائمة بالإدارة اتخاذ جميع الخطوات اللازمة لحماية حقوق الملكية لشعوب تلك الأقاليم وفقا لقرارات الأمم المتحدة ذات الصلة بإنهاء الاستعمار؛</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">10 - تطلب إلى الدول المعنية القائمة بالإدارة أن تكفل عدم هيمنة أية نظم تمييزية لشروط العمل في الأقاليم الواقعة تحت إدارتها وأن تعمل على أن يطبق في كل إقليم نظام منصف للأجور يسري على جميع السكان دون أي تمييز؛</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">11 - تطلب إلى الأمين العام أن يواصل إبلاغ الرأي العام العالمي، عن طريق جميع الوسائل المتاحة له، بأية أنشطة تؤثر على ممارسة شعوب الأقاليم غير المتمتعة بالحكم الذاتي لحقها في تقرير المصير طبقا للميثاق ولقرار الجمعية العامة 1514 (د - 15)؛</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">12 - تناشد وسائط الإعلام الجماهيري ونقابات العمال والمنظمات غير الحكومية، فضلا عن الأفراد، مواصلة جهودهم المبذولة لتعزيز الرفاه الاقتصادي لشعوب الأقاليم غير المتمتعة بالحكم الذاتي؛</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="ar">13 - تقرر أن تواصل متابعة الحالة في الأقاليم غير المتمتعة بالحكم الذاتي لكي تكفل توجيه جميع الأنشطة الاقتصادية في تلك الأقاليم نحو دعم وتنويع اقتصاداتها تحقيقا لمصالح شعوبها، ومن بينها السكان الأصليون، ونحو تعزيز قدرات تلك الأقاليم الاقتصادية والمالية؛</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="ar">14 - تقرر أن تواصل دراسة هذه المسألة وأن تقدم تقريرا بشأنها إلى الجمعية العامة في دورتها الثامنة والخمسين.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

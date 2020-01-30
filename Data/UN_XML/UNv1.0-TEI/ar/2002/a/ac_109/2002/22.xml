@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/22</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020611</date>
+        <idno type="symbol">A/AC.109/2002/22</idno>
+        <idno type="jobno">N0242174</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>POLITICAL STATUS</term>
+          <term>HUMAN RIGHTS</term>
+          <term>POLITICAL PRISONERS</term>
+          <term>PUERTO RICO</term>
+          <term>MILITARY BASES</term>
+          <term>VIEQUES (PUERTO RICO)</term>
+          <term>UNITED STATES</term>
+          <term>SELF-DETERMINATION OF PEOPLES</term>
+          <term>CULTURAL IDENTITY</term>
+          <term>INDEPENDENCE</term>
+          <term>POLITICAL PARTICIPATION</term>
+          <term>PUBLIC DEMONSTRATIONS</term>
+          <term>CIVIL AND POLITICAL RIGHTS</term>
+          <term>DETAINED PERSONS</term>
+          <term>REPORT PREPARATION</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنة الخاصة المعنية بحالة تنفيذ إعلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها السادسة المعقودة في 10 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">مقرر اللجنة الخاصة المؤرخ 21 حزيران/يونيه 2001 بشأن بورتوريكو</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">إذ تضع نصب عينيها إعلان منح الاستقلال للبلدان والشعوب المستعمرة، الوارد في قرار الجمعية العامة 1514 (د - 15) المؤرخ 14 كانون الأول/ديسمبر 1960، وقرارات ومقررات اللجنة الخاصة بشأن بورتوريكو،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإذ تضع في اعتبارها أن الجمعية العامة للأمم المتحدة قد أعلنت، في قرارها 43/47، المؤرخ 22 تشرين الثاني/نوفمبر 1988، أن عقد التسعينات يمثل عقد القضاء على الاستعمار وأن الجمعية العامة أعلنت، في القرار 55/146 المؤرخ 8 كانون الأول/ ديسمبر 2000، أن الفترة 2001 - 2010 تمثل العقد الدولي الثاني للقضاء على الاستعمار،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تضع نصب عينيها القرارات والمقررات العشرين التي اتخذتها اللجنة الخاصة بشأن مسألة بورتوريكو، والواردة في تقارير اللجنة الخاصة إلى الجمعية العامة،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ تشير إلى أن يوم 25 تموز/يوليه 2002 يوافق الذكرى السنوية الرابعة بعد المائة لتدخُّل الولايات المتحدة الأمريكية في بورتوريكو،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تشير أيضا إلى المبادرات المتنوعة التي اتخذها الممثلون السياسيون لبورتوريكو والولايات المتحدة في السنوات الأخيرة، دون أن يؤدي ذلك إلى إطلاق عملية إنهاء استعمار بورتوريكو،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإذ تشدد على ضرورة أن تبادر الولايات المتحدة إلى تهيئة الظروف الملائمة من أجل التنفيذ الكامل لقرار الجمعية العامة 1514 (د - 15) وقرارات ومقررات اللجنة الخاصة بشأن بورتوريكو،</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">وإذ تضع في اعتبارها التدابير التي اعتمدتها مؤخرا الجمعية التشريعية لبورتوريكو بمجلسيها، والتي توصي بعقد جمعية بشأن وضع شعب بورتوريكو كجزء من البحث عن إجراءات يكون من شأنها أن تتيح البدء في عملية إنهاء استعمار بورتوريكو،</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">وإذ تدرك أن مشاة البحرية التابعة للولايات المتحدة يستخدمون جزيرة بييكس، بورتوريكو، منذ أكثر من 60 عاما، للقيام بمناورات عسكرية، وبذلك لا تترك في متناول السكان المدنيين سوى بقعة لا تكاد تبلغ ربع مساحة الجزيرة مع ما يترتب على ذلك من آثار سلبية بالنسبة لصحة السكان وللبيئة والتنمية الاقتصادية والاجتماعية للإقليم،</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">وإذ يؤسفها أن حكومة الولايات المتحدة تواصل القيام بمناوراتها العسكرية وعمليات القصف على جزيرة بييكس المأهولة بالسكان، حيث اقتادت المئات من المتظاهرين السلميين ومنهم شخصيات سياسية، وزجَّت بهم في السجون، وفرضت قيودا جديدة على السكان المدنيين،</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">وإذ تنوه بما أعرب عنه رئيس الولايات المتحدة من نية في إنهاء المناورات العسكرية في بييكس بحلول أول أيار/مايو 2003 أو قبل ذلك التاريخ،</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">وإذ تلاحظ أن هناك اتفاقا عاما في الرأي بين أبناء الشعب وكذلك داخل حكومة بورتوريكو على الحاجة الملحَّة إلى وقف المناورات العسكرية في جزيرة بييكس وإعادة الأرض المحتلة إلى شعب بورتوريكو،</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">وإذ تضع في اعتبارها أن استفتاء رسميا دعت إلى إجرائه حكومة بورتوريكو في 29 تموز/يوليه 2001 أظهر أن غالبية عظمى من أهالي بييكس تؤيد الوقف الفوري والدائم للمناورات العسكرية في فييكس،</s>
+      </p>
+      <p id="17">
+        <s id="17:1" lang="ar">وإذ تلاحظ أن هناك اتفاقا في الرأي بين شعب بورتوريكو على تأييد إطلاق سراح السجناء البورتوريكيين الذين يقضون في سجون الولايات المتحدة أحكاما بالسجن في قضايا تتصل باستقلال بورتوريكو،</s>
+      </p>
+      <p id="18">
+        <s id="18:1" lang="ar">وإذ تشير إلى إطلاق سراح 11 سجينا سياسيا بورتوريكياً في عام 2000،</s>
+      </p>
+      <p id="19">
+        <s id="19:1" lang="ar">وإذ تلاحظ أن الوثيقة الختامية للمؤتمر الوزاري الثالث عشر لحركة بلدان عدم الانحياز المعقود في كارتاخينا (كولومبيا) يومي 8 و 9 نيسان/أبريل 2000()، والبلاغ الختامي لاجتماع وزراء الخارجية ورؤساء وفود بلدان حركة عدم الانحياز، المعقود بنيويورك في 14 تشرين الثاني/نوفمبر 2001()، والبلاغ الختامي الصادر عن الاجتماع الوزاري لمكتب التنسيق لحركة بلدان عدم الانحياز، المعقود في دوربان (جنوب أفريقيا) من 27 إلى 29 نيسان/أبريل 2002، أعادت تأكيد حق شعب بورتوريكو في تقرير المصير والاستقلال على أساس قرار الجمعية العامة 1514 (د - 15) وطلبت إلى اللجنة الخاصة مواصلة النظر باهتمام في مسألة بورتوريكو،</s>
+      </p>
+      <p id="20">
+        <s id="20:1" lang="ar">وقد استمعت إلى بيانات وشهادات تمثل مختلف الاتجاهات السائدة في أوساط شعب بورتوريكو ومؤسساته الاجتماعية،</s>
+      </p>
+      <p id="21">
+        <s id="21:1" lang="ar">وقد نظرت في تقرير مقرر اللجنة الخاصة عن تنفيذ القرارات المتعلقة ببورتوريكو()،</s>
+      </p>
+      <p id="22">
+        <s id="22:1" lang="ar">1 - تؤكد من جديد حق شعب بورتوريكو غير القابل للتصرف في تقرير المصير والاستقلال وفقا لقرار الجمعية العامة 1514 (د - 15) وانطباق المبادئ الأساسية لذلك القرار على مسألة بورتوريكو؛</s>
+      </p>
+      <p id="23">
+        <s id="23:1" lang="ar">2 - تكرر التأكيد على أن شعب بورتوريكو يشكل أمَّة من أمم أمريكا اللاتينية ومنطقة البحر الكاريبي لها هويتها الوطنية الجلية الخاصة بها؛</s>
+      </p>
+      <p id="24">
+        <s id="24:1" lang="ar">3 - تطلب من حكومة الولايات المتحدة الأمريكية الاضطلاع بمسؤوليتها إزاء القيام على وجه السرعة بتهيئة الظروف لعملية تتيح لشعب بورتوريكو أن يمارس بالكامل حقه غير القابل للتصرف في تقرير المصير والاستقـــــلال، وفقا لقرار الجمعية العامة 1514 (د - 15) وقرارات ومقررات اللجنة الخاصة بشأن بورتوريكو؛</s>
+      </p>
+      <p id="25">
+        <s id="25:1" lang="ar">4 - تلاحظ مع الارتياح أنه تم خلال الأعوام الأخيرة إحراز تقدم في تنفيذ آلية تكفل المشاركة الكاملة لممثلي جميع الآراء السائدة في بورتوريكو، من قبيل المقترحات الداعية إلى عقد جمعية بشأن وضع شعب بورتوريكو؛</s>
+      </p>
+      <p id="26">
+        <s id="26:1" lang="ar">5 - تكرر الإعراب عن أملها في أن تنظر الجمعية العامة في مسألة بورتوريكو بصورة شاملة ومن جميع جوانبها؛</s>
+      </p>
+      <p id="27">
+        <s id="27:1" lang="ar">6 - تحث حكومة الولايات المتحدة، انسجاما مع ضرورة ضمان حق الشعب البورتوريكي المشروع في تقرير المصير وحماية حقوق الإنسان، على أن تأمر بوقف فوري للتدريبات والمناورات العسكرية لقواتها المسلحة في جزيرة بييكس المأهولة بالسكان، وأن تعيد الأرض المحتلة إلى شعب بورتوريكو، وأن تتوقف عن اضطهاد المتظاهرين السلميين وزجّهم في السجون وتوقيفهم وإساءة معاملتهم، وأن تفرج على الفور عن جميع السجناء بسبب هذه القضية، وأن يتم احترام حقوق الإنسان الأساسية كالحق في الصحة وفي التنمية الاقتصادية، وأن يجري تطهير المناطق التي تعرضت للقصف؛</s>
+      </p>
+      <p id="28">
+        <s id="28:1" lang="ar">7 - تطلب إلى رئيس الولايات المتحدة أن يطلق سراح جميع السجناء السياسيين البورتوريكيين الذين يقضون في سجون الولايات المتحدة أحكاما بالسجن في قضايا تتعلق بالكفاح من أجل استقلال بورتوريكو؛</s>
+      </p>
+      <p id="29">
+        <s id="29:1" lang="ar">8 - تلاحظ مع الارتياح التقرير الذي أعــــده مقرر اللجنة الخاصة(3) تنفيــــذا لقرارها المؤرخ 21 حزيران/يونيه 2001؛</s>
+      </p>
+      <p id="30">
+        <s id="30:1" lang="ar">9 - تطلب من المقرر أن يقدم تقريرا إلى اللجنة الخاصة في عام 2003 عن تنفيذ هذا القرار؛</s>
+      </p>
+      <p id="31">
+        <s id="31:1" lang="ar">10 - تقرر إبقاء مسألة بورتوريكو قيد الاستعراض المستمر.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>

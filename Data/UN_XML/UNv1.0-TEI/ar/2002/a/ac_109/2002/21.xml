@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>The United Nations Parallel Corpus v1.0 - A/AC.109/2002/21</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>United Nations DGACM</publisher>
+        <pubPlace>New York</pubPlace>
+        <date>20020604</date>
+        <idno type="symbol">A/AC.109/2002/21</idno>
+        <idno type="jobno">N0241070</idno>
+        <availability>
+          <p>The following disclaimer, an integral part of the United Nations Parallel Corpus v1.0, 
+             shall be respected in regard to the Corpus v1.0 (no other restrictions apply):</p>
+
+          <p>The United Nations Parallel Corpus is made available without warranty of any kind, 
+             explicit or implied. The United Nations specifically makes no warranties or 
+             representations as to the accuracy or completeness of the information contained in 
+             the United Nations corpus.</p>
+
+          <p>Under no circumstances shall the United Nations be liable for any loss, liability,
+             injury or damage incurred or suffered that is claimed to have resulted from the use
+             of the United Nations Corpus. The use of the United Nations Corpus is at the user's 
+             sole risk. The user specifically acknowledges and agrees that the United Nations is 
+             not liable for the conduct of any user. If the user is dissatisfied with any of the 
+             material provided in the United Nations Corpus, the users's sole and exclusive remedy 
+             is to discontinue using the United Nations Corpus.</p>
+
+          <p>When using the United Nations Corpus, the user must acknowledge the United Nations as the
+             source of the information. For references, please use this reference:
+             Ziemski, M., Junczys-Dowmunt, M., and Pouliquen, B. (2016) The United Nations
+             Parallel Corpus, Language Resources and Evaluation (LREC’16), Portorož, Slovenia, 
+             May 2016.</p>
+
+          <p>Nothing herein shall constitute or be considered to be a limitation upon or waiver,
+             express or implied, of the privileges and immunities of the United Nations, which
+             are specifically reserved.</p>
+        </availability>
+        <distributor>http://conferences.unite.un.org/UNCorpus</distributor>
+      </publicationStmt>
+      <sourceDesc>
+        <p>http://www.un.org/en/official-documents-system-search/index.html</p>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term>VISITING MISSIONS</term>
+          <term>PLEBISCITES</term>
+          <term>GUAM</term>
+          <term>NON-SELF-GOVERNING TERRITORIES</term>
+          <term>CONSULTATIONS</term>
+          <term>GUAM QUESTION</term>
+          <term>SELF-DETERMINATION OF PEOPLES</term>
+        </keywords>
+      </textClass>
+      <langUsage>
+        <language ident="ar">Arabic</language>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p id="1">
+        <s id="1:1" lang="ar">اللجنــة الخاصــة المعنيــة بحالــة تنفيــــذ إعــلان منح الاستقلال للبلدان والشعوب المستعمرة</s>
+      </p>
+      <p id="2">
+        <s id="2:1" lang="ar">قرار اتخذته اللجنة الخاصة في جلستها الثالثة المعقودة في 3 حزيران/يونيه 2002</s>
+      </p>
+      <p id="3">
+        <s id="3:1" lang="ar">مسألة إيفاد بعثات زائرة إلى الأقاليم</s>
+      </p>
+      <p id="4">
+        <s id="4:1" lang="ar">إن اللجنة الخاصة،</s>
+      </p>
+      <p id="5">
+        <s id="5:1" lang="ar">وقد نظرت في مسألة إيفاد بعثات زائرة إلى الأقاليم،</s>
+      </p>
+      <p id="6">
+        <s id="6:1" lang="ar">وإذ تشير إلى قرارات ومقررات الجمعية العامة واللجنة الخاصة المتصلة بالموضوع والتي تطلب إلى الدول القائمة بالإدارة أن تتعاون تعاونا تاما مع الأمم المتحدة باستقبال البعثات الزائرة في الأقاليم الخاضعة لإدارتها،</s>
+      </p>
+      <p id="7">
+        <s id="7:1" lang="ar">وإذ تضع في اعتبارها أن بعثات الأمم المتحدة الزائرة تمثل وسيلة فعالة لتقييم الحالة في تلك الأقاليم والتحقق من رغبات وتطلعات شعوبها فيما يتصل بالمركز الذي تريده لنفسها مستقبلا،</s>
+      </p>
+      <p id="8">
+        <s id="8:1" lang="ar">وإذ تدرك أن بعثات الأمم المتحدة الزائرة تعزز قدرة الأمم المتحدة على مساعدة شعوب الأقاليم غير المتمتعة بالحكم الذاتي في بلوغ الأهداف المبينة في إعلان منح الاستقلال للبلــــدان والشعــــوب المستعمـــرة، الوارد في قرار الجمعية العامة 1514 (د-15) المؤرخ 14 كانون الأول/ديسمبر 1960، وفي قرارات الجمعية العامة الأخرى ذات الصلة،</s>
+      </p>
+      <p id="9">
+        <s id="9:1" lang="ar">وإذ تلاحظ مع التقدير استمرار تعاون نيوزيلندا المثالي، بصفتها الدولة القائمة بالإدارة، مع اللجنة الخاصة في عملها، وأنه بناء على الدعوة الموجهة من حكومة نيوزيلندا، أوفدت بعثة زائرة إلى توكيلاو في تموز/يوليه 1994()،</s>
+      </p>
+      <p id="10">
+        <s id="10:1" lang="ar">وإذ تشير إلى إيفاد بعثة من بعثات الأمم المتحدة الزائرة إلى إقليم غوام في عام 1979، وإذ تلاحظ توصية الحلقة الدراسية الإقليمية للمحيط الهادئ لعام 1996 بإيفاد بعثة زائرة إلى غوام، وإذ تحيط علما بالقرار رقم 464 (LS)، الذي اعتمدته الهيئة التشريعية الثالثة والعشرون لغوام في 19 تموز/يوليه 1996 وطلبت فيه إيفاد إحدى بعثات الأمم المتحدة الزائرة إلى ذلك الإقليم،</s>
+      </p>
+      <p id="11">
+        <s id="11:1" lang="ar">وإذ ترحب ببدء حوار غير رسمي بين اللجنة الخاصة وبعض الدول القائمة بالإدارة،</s>
+      </p>
+      <p id="12">
+        <s id="12:1" lang="ar">1 - تشدد على ضرورة إيفاد بعثات زائرة بصفة دورية إلى الأقاليم غير المتمتعة بالحكم الذاتي من أجل تسهيل التنفيذ الكامل والسريع والفعَّال لإعلان منح الاستقلال للبلدان والشعوب المستعمرة فيما يتعلق بتلك الأقاليم؛</s>
+      </p>
+      <p id="13">
+        <s id="13:1" lang="ar">2 - تطلب إلى الدول القائمة بالإدارة أن تتعاون، أو تواصل التعاون، معالأمم المتحدة باستقبال بعثات الأمم المتحدة الزائرة في الأقاليم الخاضعة لإدارتها؛</s>
+      </p>
+      <p id="14">
+        <s id="14:1" lang="ar">3 - تطلب إلى الدول القائمة بالإدارة أن تأخذ في الاعتبار النهج الجديدة التي تنتهجها اللجنة الخاصة في أعمالها، وتحثها على التعاون مع اللجنة في جهودها؛</s>
+      </p>
+      <p id="15">
+        <s id="15:1" lang="ar">4 - تطلب من رئيسها أن يواصل المشاورات مع الدول المعنية القائمة بالإدارة وأن يقدم تقريرا عن ذلك إلى اللجنة الخاصة حسب الاقتضاء؛</s>
+      </p>
+      <p id="16">
+        <s id="16:1" lang="ar">5 - تطلب أيضا من رئيسها أن يدخل في مشاورات مع الدولة القائمة بإدارة غوام لتسهيل إيفاد إحدى بعثات الأمم المتحدة الزائرة إلى ذلك الإقليم بحيث يتزامن ذلك مع الاستفتاء العام المقترح أن تجريه اللجنة الانتخابية بغوام في 7 أيلول/سبتمبر 2002 أو نحو ذلك الموعد.</s>
+      </p>
+    </body>
+  </text>
+</TEI.2>
